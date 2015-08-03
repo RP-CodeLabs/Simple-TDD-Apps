@@ -1,0 +1,6 @@
+C:\Users\Rajesh Ponnam\Desktop\New folder\Practise\FizzBuzzPlusApp\FizzBuzzPlusApp\bin\Debug\FizzBuzzPlusApp.exe.config
+C:\Users\Rajesh Ponnam\Desktop\New folder\Practise\FizzBuzzPlusApp\FizzBuzzPlusApp\bin\Debug\FizzBuzzPlusApp.exe
+C:\Users\Rajesh Ponnam\Desktop\New folder\Practise\FizzBuzzPlusApp\FizzBuzzPlusApp\bin\Debug\FizzBuzzPlusApp.pdb
+C:\Users\Rajesh Ponnam\Desktop\New folder\Practise\FizzBuzzPlusApp\FizzBuzzPlusApp\obj\Debug\FizzBuzzPlusApp.csprojResolveAssemblyReference.cache
+C:\Users\Rajesh Ponnam\Desktop\New folder\Practise\FizzBuzzPlusApp\FizzBuzzPlusApp\obj\Debug\FizzBuzzPlusApp.exe
+C:\Users\Rajesh Ponnam\Desktop\New folder\Practise\FizzBuzzPlusApp\FizzBuzzPlusApp\obj\Debug\FizzBuzzPlusApp.pdb
