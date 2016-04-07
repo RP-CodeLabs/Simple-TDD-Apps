@@ -16,5 +16,10 @@
         {
             return (value %3 == 0 && value % 5 == 0) ? "FizzBuzz" : string.Empty;
         }
+        
+        public void SayHello()
+        {
+            Console.WriteLine("Hello");
+        }
     }
 }
